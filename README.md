@@ -1,5 +1,8 @@
 ### 前言
 新闻网站是在2019年11月份工作室全体成员完成的比较完成的项目。
+
+**注：**具体的展示代码就不上传了，因为涉及到商用。
+
 ### 网站的简单介绍
 - 主要是对国际上相关新闻的展示。
 - 服务端：PHP+ThinkPHP5+MySQL+Redis+Git+Nginx。
@@ -51,18 +54,22 @@
 #### 接口实现的功能
 - 首页接口数据完成：轮播图，专题推荐，单独分类展示块的内容。
   
+
 ![](http://xy.lrnjy.club/images/inter-1.png)
 
 - 推荐页完成了：要问推荐、精选推荐、热门文章等接口。
   
+
 ![](http://xy.lrnjy.club/images/inter-2.png)
 
 - list页相关分类下以列表的形式展示文章以及加载更多，最热新闻接口等。
   
+
 ![](http://xy.lrnjy.club/images/inter-3.png)
 
 - 图文页主要是对文章内容的展示。热门文章推荐、精品推荐等接口。
   
+
 ![](http://xy.lrnjy.club/images/inter-4.png)
 
 ### 接口文档
