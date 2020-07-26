@@ -12,7 +12,7 @@
 - 客户端：向服务端请求数据，完成自身的行为逻辑。
 #### 基本架构
 
-<img src="images/inter-5.png" style="zoom:40%;" />
+<img src="images/inter-5.png" style="zoom:20%;" />
 
 ### 主要实现的功能和用到的技术
 #### 主要负责
